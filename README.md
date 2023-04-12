@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👯 I’m looking to collaborate on **with more software engineers**
+- 👯 I’m looking to collaborate **with more software engineers**
 
 - 💬 Ask me about **React and NodeJS**
 
